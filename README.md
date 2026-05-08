@@ -1,5 +1,7 @@
-# Provincial-Education-Travel-Allowance-System-PETAS-
+# Provincial-Education-Travel-Allowance-System-PETAS
 ระบบคำนวณเบี้ยเลี้ยงเดินทางไปราชการ สำนักงานศึกษาธิการจังหวัด
+# Demo
+https://mamazaki.github.io/Provincial-Education-Travel-Allowance-System-PETAS/
 ## เทคโนโลยีที่ใช้ (Tech Stack)
 - Frontend: HTML5, CSS3, Bootstrap 5
 - Libraries: - html2pdf.js สำหรับการส่งออกไฟล์ PDF
